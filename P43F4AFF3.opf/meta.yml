@@ -1,0 +1,28 @@
+id: P43F4AFF3
+initial_creation_type: input
+source_metadata:
+  title: Instructions on the view of the Middle Way (block print), colophon excerpt
+  author: རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-05-19); revision in process, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1679
+  bases:
+    2f0e:
+      title: Instructions on the view of the Middle Way (block print), colophon excerpt
+      order: 1
+      base_file: 2f0e.txt
+created_at: '2022-04-15T18:49:56.760357'
+last_modified_at: '2022-04-15T18:49:56.760364'
+quality: null
